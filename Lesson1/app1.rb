@@ -13,4 +13,3 @@ if weight > 0
 else
 	puts "#{name}, вес выше нормы! он равен #{weight}"
 end
-
